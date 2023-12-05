@@ -1,0 +1,40 @@
+21/ git init
+2/ git add .
+Nếu có file SQL thì thêm 1 trong 2 câu lệnh này 
+git config core.eol lf
+git config core.autocrlf input
+3/ git commit -m"ten commit"
+4/ git remote add origin <link tới repo>
+5/ git push -u origin master
+
+
+1/mafex HOMELANDER new real 1tr750k
+2/mafex superman zack snyder new 1tr750k
+3/ MARVEL SELECT apocalypse new real: 760k
+4/mafex billy butcher 1tr690k new real
+5/ shf golden armor: new real 2tr
+6/ dc icons jokers new real : 350k
+
+https://www.iconfinder.com/search?q=facebook
+https://console.cloud.google.com/apis/credentials?hl=vi&project=my-project-larav-1676784259308
+
+https://stackoverflow.com/questions/48128847/how-to-install-angular-cli-locally-without-the-g-flag
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
